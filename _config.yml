@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/ali.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: '9838e08a8c.js'
 
 author:
   name: 'Ali Bachar'
