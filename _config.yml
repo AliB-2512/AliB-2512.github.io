@@ -1,6 +1,6 @@
 # Site settings
 title: Ali Bachar - Developer
-namesetting: Ali Bachar 
+namesetting: Ali Bachar
 description: 'Developer'
 url: 'http://AliB-2512.github.io'
 baseurl: ''
@@ -12,7 +12,7 @@ font_awesome: '9838e08a8c.js'
 author:
   name: 'Ali Bachar'
   email: dev.alib@outlook.com
-  twitter_username: AliBPt1
+  twitter_username: AliHBachar
 #  facebook_username: joshgerdes
   github_username:  AliB-2512
   linkedin_username:  ali-bachar
